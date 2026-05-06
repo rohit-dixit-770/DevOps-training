@@ -1,0 +1,21 @@
+name: Sample_NET_Test
+on: 
+  push
+jobs:
+  build:
+    runs-on:  ubuntu-latest
+    steps:
+      - name: Repository checkout
+        uses: actions/checkout@v4
+      - name: Install Dependencies
+        uses: actions/setup-dotnet@v4
+      - name: Test
+        run: dotnet test
+      - name: Restore
+        run: dotnet restore
+      - name: Build
+        run: dotnet build
+      - name: Publish
+        run: dotnet publish Sample/Sample.csproj
+      
+      
