@@ -1,0 +1,15 @@
+C:\Users\JAHNBR\OneDrive - Capgemini\Desktop\Sample\Sample\bin\Debug\net7.0\Sample.exe
+C:\Users\JAHNBR\OneDrive - Capgemini\Desktop\Sample\Sample\bin\Debug\net7.0\Sample.deps.json
+C:\Users\JAHNBR\OneDrive - Capgemini\Desktop\Sample\Sample\bin\Debug\net7.0\Sample.runtimeconfig.json
+C:\Users\JAHNBR\OneDrive - Capgemini\Desktop\Sample\Sample\bin\Debug\net7.0\Sample.dll
+C:\Users\JAHNBR\OneDrive - Capgemini\Desktop\Sample\Sample\bin\Debug\net7.0\Sample.pdb
+C:\Users\JAHNBR\OneDrive - Capgemini\Desktop\Sample\Sample\obj\Debug\net7.0\Sample.csproj.AssemblyReference.cache
+C:\Users\JAHNBR\OneDrive - Capgemini\Desktop\Sample\Sample\obj\Debug\net7.0\Sample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JAHNBR\OneDrive - Capgemini\Desktop\Sample\Sample\obj\Debug\net7.0\Sample.AssemblyInfoInputs.cache
+C:\Users\JAHNBR\OneDrive - Capgemini\Desktop\Sample\Sample\obj\Debug\net7.0\Sample.AssemblyInfo.cs
+C:\Users\JAHNBR\OneDrive - Capgemini\Desktop\Sample\Sample\obj\Debug\net7.0\Sample.csproj.CoreCompileInputs.cache
+C:\Users\JAHNBR\OneDrive - Capgemini\Desktop\Sample\Sample\obj\Debug\net7.0\Sample.dll
+C:\Users\JAHNBR\OneDrive - Capgemini\Desktop\Sample\Sample\obj\Debug\net7.0\refint\Sample.dll
+C:\Users\JAHNBR\OneDrive - Capgemini\Desktop\Sample\Sample\obj\Debug\net7.0\Sample.pdb
+C:\Users\JAHNBR\OneDrive - Capgemini\Desktop\Sample\Sample\obj\Debug\net7.0\Sample.genruntimeconfig.cache
+C:\Users\JAHNBR\OneDrive - Capgemini\Desktop\Sample\Sample\obj\Debug\net7.0\ref\Sample.dll
