@@ -12,7 +12,7 @@ jobs:
       - name: Test
         run: dotnet test Sample/Sample.csproj
       - name: Restore
-        run: dotnet restore
+        run: dotnet restore Sample/Sample.csproj
       - name: Build
         run: dotnet build Sample/Sample.csproj
       - name: Publish
